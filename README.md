@@ -5,7 +5,9 @@
 [![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
 
 
-#### [See it Live](https://govindcodes.github.io/ValentineWish/)
+#### [See it Live](https://gwendegreef.nl/)
+
+## Made this also PWA friendly for offline loading :mobile:
 
 ## Make your own version :computer:
 
